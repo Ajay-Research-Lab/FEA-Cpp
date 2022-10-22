@@ -32,4 +32,8 @@
 *.app
 
 # Folders
-.ccls-cache 
+.ccls-cache/
+
+# Other files
+main-debug
+
